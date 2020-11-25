@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(128, 128, 128, 0.267);
+    display: inline-block;
+}
+
+.back {
+    height: 90vh;
+    background-image: url("images/beach.jpg");
+    background-color: white;
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 20px;
+}
+.lorem {
+    padding-top: 30%;
+    width: 48%;
+    margin: 10px;
+}
+.nav {
+    display: inline;
+    width: 65%;
+    padding: 15px;
+    float: right;
+}
+a {
+   text-decoration: none;
+   padding: 5px;
+   color: black;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+footer {
+background-color: rgba(128, 128, 128, 0.267);
+text-align: right;
+padding: 5px;
+margin-top: 40px;
+}
